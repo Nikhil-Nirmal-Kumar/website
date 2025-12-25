@@ -1,5 +1,6 @@
 # Ex.07 Restaurant Website
 # Date:
+05.12.2025
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
